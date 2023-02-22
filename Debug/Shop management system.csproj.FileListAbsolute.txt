@@ -1,0 +1,59 @@
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\bin\Debug\Shop management system.exe.config
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\bin\Debug\Shop management system.exe
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\bin\Debug\Shop management system.pdb
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.exe
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.pdb
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.loginform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.signinform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.menuform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.form4.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.viewform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.Editform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.compleorderfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.orderfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.pendingfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.stockfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.profitform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.sortedform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.reviewform.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.labfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.buyfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.custfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.datafoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.placeorder.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.billpayfoam.resources
+C:\Users\DELL\OneDrive\Desktop\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.reviewfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\bin\Debug\Shop management system.exe.config
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\bin\Debug\Shop management system.exe
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\bin\Debug\Shop management system.pdb
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.AssemblyReference.cache
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.SuggestedBindingRedirects.cache
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.billpayfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.buyfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.compleorderfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.custfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.datafoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.Editform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.labfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.orderfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.pendingfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.placeorder.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.profitform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.reviewfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.reviewform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.sortedform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.stockfoam.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.viewform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.loginform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.signinform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.menuform.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Forms.form4.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop_management_system.Properties.Resources.resources
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.GenerateResource.cache
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.csproj.CoreCompileInputs.cache
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.exe
+E:\Documents\2nd semester\windows forms\Shop management system\Shop management system\obj\Debug\Shop management system.pdb
