@@ -1,0 +1,7 @@
+hassan,123,customer
+laiba,123,admin
+ayesha,123,customer
+rubab,123,customer
+hamza,123,admin
+admin,123,admin
+customer,123,customer

@@ -1,0 +1,4 @@
+ball,2,50
+bat,4,34
+tennis,5,9
+gloves,5,10
