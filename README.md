@@ -7,10 +7,24 @@ Moreover, the application features a dedicated customer module that allows custo
 With a user-friendly interface and robust functionality, this application provides a professional solution for businesses to streamline their operations, enhance customer experience, and make informed decisions based on customer reviews.
 
 
-
-#Output of this System
-
- ![Screenshot 2023-01-25 104933](https://github.com/Laiba51-CS/Shop-Management-System-UI-/assets/115210630/d455fa02-270a-41bf-8265-20d3f74befc3)
-
+Login in project as  Admin 
+![image](https://github.com/Laiba51-CS/Shop-Management-System-UI-/assets/115210630/c1010d08-5464-4917-965a-a3cc9a00568e)
 
 Main Menu of Admin
+
+
+![image](https://github.com/Laiba51-CS/Shop-Management-System-UI-/assets/115210630/228c5e04-ce1f-4859-8e88-686a89024849)
+
+
+
+
+Login in project as  Customer 
+![image](https://github.com/Laiba51-CS/Shop-Management-System-UI-/assets/115210630/773c4f70-1a09-4261-9a65-d865d7e2c3dd)
+
+Main menu of Customers 
+
+![image](https://github.com/Laiba51-CS/Shop-Management-System-UI-/assets/115210630/03d2ec92-699a-49de-b496-71f79b5e9609)
+
+
+
+
